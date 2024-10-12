@@ -15,6 +15,8 @@ library(ggplot2)
 
 # 3rd additon
 
+# 4th addition
+
 # for creating initial empty subdirectories for plots, etc.
 main_dir <- "D:\\FERIT_1\\WSP_Churchill\\Cat1_RSF"
 sub_dir <- "Output"
