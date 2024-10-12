@@ -21,6 +21,8 @@ library(ggplot2)
 
 #6 th change
 
+#7th chnage
+
 # for creating initial empty subdirectories for plots, etc.
 main_dir <- "D:\\FERIT_1\\WSP_Churchill\\Cat1_RSF"
 sub_dir <- "Output"
